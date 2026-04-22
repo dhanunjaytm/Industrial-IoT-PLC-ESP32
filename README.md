@@ -34,3 +34,14 @@ Future Improvements
 * Predictive maintenance alerts
 * Mobile app-based monitoring
 * Advanced industrial analytics integration
+  
+## Project Documentation
+
+### Available Files
+
+* Detailed Project Report (PDF)
+* System Architecture Diagram
+* Industrial IoT Monitoring Flow
+* Project Overview and Working Principle
+
+These documents explain the complete project workflow, communication structure, troubleshooting process, and cloud-based monitoring implementation using Siemens S7-1200 PLC, ESP32, and Firebase Cloud.
